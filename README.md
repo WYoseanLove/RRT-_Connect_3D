@@ -6,6 +6,6 @@
 
 ### OUTPUT : VTK View 3D environment for obstractles generated randomly and final path from start to end with red color line.
 
-![OUTPUT](https://github.com/WYoseanLove/rrt_Connect_CSharp/3D_RRT_CONNECT.png)
+![OUTPUT](3D_RRT_CONNECT.png)
 
 
