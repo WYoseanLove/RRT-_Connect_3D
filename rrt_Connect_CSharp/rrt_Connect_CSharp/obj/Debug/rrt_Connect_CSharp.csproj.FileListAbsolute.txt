@@ -1,0 +1,11 @@
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\rrt_Connect_CSharp.exe.config
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\rrt_Connect_CSharp.exe
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\rrt_Connect_CSharp.pdb
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\obj\Debug\rrt_Connect_CSharp.csprojAssemblyReference.cache
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\obj\Debug\rrt_Connect_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\obj\Debug\rrt_Connect_CSharp.exe
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\obj\Debug\rrt_Connect_CSharp.pdb
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\dll\x86\opencv_videoio_ffmpeg490.dll
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\ywang246\source\repos\rrt_Connect_CSharp\rrt_Connect_CSharp\bin\Debug\dll\x64\opencv_videoio_ffmpeg490_64.dll
